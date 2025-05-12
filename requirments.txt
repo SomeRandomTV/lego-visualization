@@ -1,0 +1,5 @@
+pandas            # data manipulation and I/O :contentReference[oaicite:0]{index=0}
+requests          # HTTP requests with retry support :contentReference[oaicite:1]{index=1}
+beautifulsoup4    # HTML parsing/scraping :contentReference[oaicite:2]{index=2}
+urllib3           # underlying HTTP client for retries/rate limiting :contentReference[oaicite:3]{index=3}
+
